@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     survey (0.1)
-      rails (>= 3.2.6, < 5)
-      railties (>= 3.2.6, < 5)
+      rails (>= 3.2.6, > 5)
+      railties (>= 3.2.6, > 5)
 
 GEM
   remote: https://rubygems.org/
